@@ -1,0 +1,51 @@
+{
+    "pizza":[
+        {
+            "id": 0,
+            "name": "Aloha Pizza",
+            "web": "www.uspizza.my",
+            "description": "Our cheesy version of everyone's fav classic.",
+            "ingredients": 
+            [
+                "succulent chicken roll", 
+                "pineapple", 
+                "double cheese"
+            ],
+            "addresses":
+            [
+                {
+                    "addressid": "0",
+                    "number":"7",
+                    "line1":"Jalan D'Cattleya 2",
+                    "line2":"Senawang",
+                    "postcode":"70450",
+                    "country":"Malaysia"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Five Cheese",
+            "web": "www.pizzaexpress.com.m",
+            "description": "Cheesy pizza with a lot type of cheese",
+            "ingredients": 
+            [
+                "Mozzarella", 
+                "Cheddar", 
+                "Blue Cheese",
+                "Feta sprinkled with Parmesan"
+            ], 
+            "addresses":
+            [
+                {
+                    "addressid": "0",
+                    "number":"9",
+                    "line1":"Bandar Sunway",
+                    "line2":"Petalin Jaya",
+                    "postcode":"46150",
+                    "country":"Malaysia"
+                }
+            ]
+        }
+    ]
+}
